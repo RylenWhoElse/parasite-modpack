@@ -1,0 +1,7 @@
+Dirt (minecraft:dirt - 3:0) no TileEntity
+Full block state: minecraft:dirt[snowy=false,variant=dirt]
+Hardness: 0.5000, Explosion resistance: 0.5000, Material: GROUND
+Block class: net.minecraft.block.BlockDirt
+IBlockState properties, including getActualState():
+PropertyBool{name=snowy, clazz=class java.lang.Boolean, values=[true, false]}: false
+PropertyEnum{name=variant, clazz=class net.minecraft.block.BlockDirt$DirtType, values=[dirt, coarse_dirt, podzol]}: dirt

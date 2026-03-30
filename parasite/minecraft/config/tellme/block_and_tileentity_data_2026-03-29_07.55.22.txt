@@ -1,0 +1,16 @@
+Molten Starmetal (pewter:molten_starmetal - 263:0) no TileEntity
+Full block state: pewter:molten_starmetal[level=0]
+Hardness: 0.0000, Explosion resistance: 0.0000, Material: LAVA
+Block class: slimeknights.tconstruct.smeltery.block.BlockMolten
+IBlockState properties, including getActualState():
+PropertyInteger{name=level, clazz=class java.lang.Integer, values=[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]}: 0
+IExtendedBlockState properties:
+PropertyFloat{name=flow_direction, clazz=class java.lang.Float, value=Optional.empty}
+PropertyFloat{name=level_corner_0, clazz=class java.lang.Float, value=Optional.empty}
+UnlistedPropertyBool{name=side_overlay_0, clazz=class java.lang.Boolean, value=Optional.empty}
+PropertyFloat{name=level_corner_1, clazz=class java.lang.Float, value=Optional.empty}
+UnlistedPropertyBool{name=side_overlay_1, clazz=class java.lang.Boolean, value=Optional.empty}
+PropertyFloat{name=level_corner_2, clazz=class java.lang.Float, value=Optional.empty}
+UnlistedPropertyBool{name=side_overlay_2, clazz=class java.lang.Boolean, value=Optional.empty}
+PropertyFloat{name=level_corner_3, clazz=class java.lang.Float, value=Optional.empty}
+UnlistedPropertyBool{name=side_overlay_3, clazz=class java.lang.Boolean, value=Optional.empty}

@@ -1,0 +1,79 @@
+Entity: Focus Projectile [registry name: thaumcraft:focusprojectile] (entityId: 73839)
+Entity class: thaumcraft.common.entities.projectile.EntityFocusProjectile
+
+TAG_Compound (10) ('')
+{
+    TAG_Long (4) ('UUIDLeast'): -4691451806438073812
+    TAG_Byte (1) ('OnGround'): 0
+    TAG_Int (3) ('special'): 1
+    TAG_Int (3) ('xTile'): -1
+    TAG_Byte (1) ('Invulnerable'): 0
+    TAG_String (8) ('inTile'): "minecraft:air"
+    TAG_Byte (1) ('shake'): 0
+    TAG_Int (3) ('zTile'): -1
+    TAG_Int (3) ('Dimension'): 0
+    TAG_Compound (10) ('ForgeCaps')
+    {
+        TAG_Compound (10) ('thaumicaugmentation:portal_state')
+        {
+            TAG_Byte (1) ('inPortal'): 0
+        }
+    }
+    TAG_Int (3) ('yTile'): -1
+    TAG_Long (4) ('UUIDMost'): -6109818259174047463
+    TAG_List (9) ('Rotation') (2 entries of TAG_Float (5))
+    {
+        TAG_Float (5) (''): 0.0
+        TAG_Float (5) (''): 95.06655
+    }
+    TAG_Byte (1) ('UpdateBlocked'): 0
+    TAG_Short (2) ('Air'): 300
+    TAG_String (8) ('id'): "thaumcraft:focusprojectile"
+    TAG_Float (5) ('FallDistance'): 0.0
+    TAG_List (9) ('Motion') (3 entries of TAG_Double (6))
+    {
+        TAG_Double (6) (''): 0.0
+        TAG_Double (6) (''): 0.17624497929806165
+        TAG_Double (6) (''): 0.0
+    }
+    TAG_String (8) ('ownerName'): "_rylen"
+    TAG_List (9) ('Pos') (3 entries of TAG_Double (6))
+    {
+        TAG_Double (6) (''): 1480.950726399981
+        TAG_Double (6) (''): 69.16031278142358
+        TAG_Double (6) (''): -1138.33917632142
+    }
+    TAG_Compound (10) ('pack')
+    {
+        TAG_Int (3) ('complexity'): 0
+        TAG_Int (3) ('dim'): 0
+        TAG_Float (5) ('power'): 1.0
+        TAG_Int (3) ('index'): 0
+        TAG_Long (4) ('uidMost'): -3262809562886879154
+        TAG_List (9) ('nodes') (1 entries of TAG_Compound (10))
+        {
+            TAG_Compound (10) ('')
+            {
+                TAG_String (8) ('type'): "EFFECT"
+                TAG_String (8) ('key'): "thaumcraft.FIRE"
+                TAG_Int (3) ('setting.duration'): 0
+                TAG_Int (3) ('setting.power'): 1
+            }
+        }
+        TAG_Long (4) ('uidLeast'): -4715196262767617621
+        TAG_Long (4) ('casterUUIDLeast'): -5331435195759159090
+        TAG_Long (4) ('casterUUIDMost'): -5141956459735858734
+    }
+    TAG_List (9) ('AABB') (6 entries of TAG_Double (6))
+    {
+        TAG_Double (6) (''): 1480.8757263970008
+        TAG_Double (6) (''): 69.16031278142358
+        TAG_Double (6) (''): -1138.4141763244002
+        TAG_Double (6) (''): 1481.0257264029613
+        TAG_Double (6) (''): 69.31031278738405
+        TAG_Double (6) (''): -1138.2641763184397
+    }
+    TAG_Short (2) ('Fire'): -1
+    TAG_Int (3) ('PortalCooldown'): 0
+    TAG_Byte (1) ('inGround'): 0
+}

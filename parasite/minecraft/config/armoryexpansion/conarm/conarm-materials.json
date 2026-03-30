@@ -1,0 +1,68 @@
+[
+  {
+    "coreMaterialStats": {
+      "durability": 14.0,
+      "defense": 27.0,
+      "materialType": "core"
+    },
+    "platesMaterialStats": {
+      "durability": 10.168421,
+      "modifier": 27.52941,
+      "toughness": 0.0,
+      "materialType": "plates"
+    },
+    "trimMaterialStats": {
+      "extraDurability": 10.168421,
+      "materialType": "trim"
+    },
+    "identifier": "alkimium",
+    "color": -15872429,
+    "type": "METAL",
+    "castable": true,
+    "craftable": false
+  },
+  {
+    "coreMaterialStats": {
+      "durability": 120.0,
+      "defense": 15.75,
+      "materialType": "core"
+    },
+    "platesMaterialStats": {
+      "durability": 60.86316,
+      "modifier": 42.35294,
+      "toughness": 0.0,
+      "materialType": "plates"
+    },
+    "trimMaterialStats": {
+      "extraDurability": 60.86316,
+      "materialType": "trim"
+    },
+    "identifier": "ichorium",
+    "color": -5811952,
+    "type": "METAL",
+    "castable": true,
+    "craftable": false
+  },
+  {
+    "coreMaterialStats": {
+      "durability": 21.0,
+      "defense": 31.5,
+      "materialType": "core"
+    },
+    "platesMaterialStats": {
+      "durability": 13.8526325,
+      "modifier": 23.294117,
+      "toughness": 0.0,
+      "materialType": "plates"
+    },
+    "trimMaterialStats": {
+      "extraDurability": 13.8526325,
+      "materialType": "trim"
+    },
+    "identifier": "bismuth",
+    "color": -65536,
+    "type": "METAL",
+    "castable": true,
+    "craftable": false
+  }
+]

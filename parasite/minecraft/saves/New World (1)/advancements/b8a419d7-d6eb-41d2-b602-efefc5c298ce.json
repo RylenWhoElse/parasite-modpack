@@ -1,0 +1,122 @@
+{
+  "srparasites:firmamentum_root": {
+    "criteria": {
+      "tick": "2026-03-29 08:02:26 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "entered_water": "2026-03-29 18:34:41 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2026-03-29 08:04:03 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "entered_water": "2026-03-29 18:34:41 -0700"
+    },
+    "done": true
+  },
+  "srparasites:monument_root": {
+    "criteria": {
+      "tick": "2026-03-29 08:02:26 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2026-03-29 18:25:36 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "entered_water": "2026-03-29 18:34:41 -0700"
+    },
+    "done": true
+  },
+  "srparasites:kill_root": {
+    "criteria": {
+      "tick": "2026-03-29 08:02:26 -0700"
+    },
+    "done": true
+  },
+  "srparasites:root": {
+    "criteria": {
+      "tick": "2026-03-29 08:02:26 -0700"
+    },
+    "done": true
+  },
+  "astralsorcery:root": {
+    "criteria": {
+      "astralsorcery_present": "2026-03-29 08:02:26 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stonebrick": {
+    "criteria": {
+      "has_stone": "2026-03-29 18:25:36 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2026-03-29 18:25:36 -0700"
+    },
+    "done": true
+  },
+  "srparasites:secret_root": {
+    "criteria": {
+      "tick": "2026-03-29 08:02:26 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2026-03-29 18:25:36 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/boat": {
+    "criteria": {
+      "entered_water": "2026-03-29 18:34:41 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "entered_water": "2026-03-29 18:34:41 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "entered_water": "2026-03-29 18:34:41 -0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "forest": "2026-03-29 08:03:57 -0700",
+      "beaches": "2026-03-29 18:35:22 -0700",
+      "desert_hills": "2026-03-29 18:36:34 -0700",
+      "forest_hills": "2026-03-29 18:32:02 -0700",
+      "plains": "2026-03-29 08:03:35 -0700",
+      "savanna": "2026-03-29 18:37:34 -0700",
+      "taiga": "2026-03-29 08:02:26 -0700",
+      "taiga_hills": "2026-03-29 08:03:29 -0700",
+      "ocean": "2026-03-29 18:33:39 -0700",
+      "extreme_hills": "2026-03-29 18:34:41 -0700",
+      "river": "2026-03-29 08:03:32 -0700",
+      "desert": "2026-03-29 18:36:42 -0700",
+      "stone_beach": "2026-03-29 18:34:36 -0700"
+    },
+    "done": false
+  }
+}

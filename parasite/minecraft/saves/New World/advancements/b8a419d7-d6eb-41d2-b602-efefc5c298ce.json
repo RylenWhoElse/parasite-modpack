@@ -1,0 +1,6658 @@
+{
+  "alembic:thaumicforever/flight@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/impulse_cannon@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/impulse_cannon@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_tinkerer/tt_black_quartz@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:isorropia/curativevat@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:isorropia/curativevat@3": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:isorropia/curativevat@4": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_tinkerer/tt_dissimulation@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_tinkerer/tt_dissimulation@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:isorropia/curativevat@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:basics/plants@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/buffstabilizer@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:revelations/cr_crimson_blade@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/buffstabilizer@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:basics/researchdupe@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:revelations/cr_crimson_blade@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:planarartifice/pa_mirromirous_headband@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:planarartifice/pa_mirromirous_headband@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_void_anvil@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_void_anvil@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_wonders/twond_lethe_water@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:basics/researchdupe@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_wonders/twond_lethe_water@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stonebrick": {
+    "criteria": {
+      "has_mossy_cobblestone": "2026-03-29 07:36:21 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/tfscribingtools@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/tfscribingtools@3": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_flux_concentrator@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/tfscribingtools@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_flux_concentrator@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/rift_management@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:isorropia/airlens@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:revelations/!cr_overgrown_taintacle@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:artifice/mirrorhand@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_tinkerer/tt_black_quartz@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:artifice/mirrorhand@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_tinkerer/tt_share_tome@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:alchemy/improvedsmelting@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:alchemy/improvedsmelting@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:periphery/malignantheart@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:periphery/malignantheart@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/decoration@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_mithminite_jar@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_mithminite_jar@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:isorropia/airlens@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_fragnant_pendant@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:artifice/redstonerelay@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_fragnant_pendant@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:artifice/redstonerelay@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:isorropia/morphicfingers@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/food@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_void_thaumometer@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:isorropia/morphicfingers@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:isorropia/incubation@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/food@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:isorropia/incubation@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/void_stone_usage@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_void_thaumometer@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:golemancy/sealprovide@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/entering_fracture@3": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:golemancy/sealprovide@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/entering_fracture@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/entering_fracture@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:revelations/cr_knowledge_scribing_tools@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "mutantbeasts:root": {
+    "criteria": {
+      "killed_something": "2026-03-29 07:59:39 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_wonders/twond_bone_bow@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:congrega_mystica/cm_expanded_golemancy@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_tinkerer/tt_celestial_teleport@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_wonders/twond_bone_bow@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_tinkerer/tt_celestial_teleport@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/void_stone_usage@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/flight@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/transducer@3": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/transducer@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/transducer@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:basics/theoryresearch@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_tinkerer/tt_proto_clay@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:basics/theoryresearch@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:basics/!eldritchcrab@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_tinkerer/tt_proto_clay@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:golemancy/mindclockwork@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:golemancy/mindclockwork@3": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:golemancy/mindclockwork@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:auromancy/rechargepedestal@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:eldritch/voidseerpearl@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:planarartifice/pa_mirror_teleporter@3": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:auromancy/rechargepedestal@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:eldritch/voidseerpearl@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:isorropia/envylens@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:planarartifice/pa_mirror_teleporter@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:planarartifice/pa_mirror_teleporter@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:isorropia/envylens@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/wandcharge@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:revelations/cr_bone_bow@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_mithminite@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/wandcharge@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:revelations/cr_bone_bow@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:golemancy/sealuse@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:golemancy/sealuse@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/decoration@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_mithminite@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/basethaumaturgy@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_adaminite_smelter@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_adaminite_smelter@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:basics/firststeps@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:auromancy/focusprojectile@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:basics/firststeps@3": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:auromancy/focusprojectile@3": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:golemancy/sealempty@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:basics/firststeps@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:auromancy/focusprojectile@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:golemancy/sealempty@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:auromancy/focusspellbat@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:auromancy/focusspellbat@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/newartifice@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/newartifice@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:isorropia/monsterexchange@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:isorropia/monsterexchange@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:golemancy/golemflyer@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_thaumium_jar@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:golemancy/golemflyer@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_wonders/twond_flux_capacitor@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_crystal_block@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_wonders/twond_flux_capacitor@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_crystal_block@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_knowledge_tome@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_thaumium_jar@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_knowledge_tome@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:alchemy/metalpurification@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_wonders/twond_timewinder@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_wonders/twond_timewinder@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/eldritch_epiphany@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:artifice/baseartifice@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_vis_scribing_tools@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_wonders/twond_void_beacon@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:alchemy/centrifuge@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:alchemy/centrifuge@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_vis_scribing_tools@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/morphic_tool@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:isorropia/selfinfusion@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/morphic_tool@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:isorropia/selfinfusion@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:revelations/cr_basic_crimson_armory@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_wonders/twond_void_beacon@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:revelations/cr_basic_crimson_armory@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/rift_power@3": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:artifice/advancedturret@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:isorropia/chococow@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:artifice/advancedturret@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:isorropia/chococow@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/stabilizer@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_wonders/twond_primal_arrows@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/stabilizer@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_wonders/twond_primal_arrows@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_tinkerer/tt_cat_amulet@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_tinkerer/tt_auromancy@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:planarartifice/!portal@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/focuscalm@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/focuscalm@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:isorropia/selfshearing@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:revelations/cr_golem_mat_tallow@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:isorropia/selfshearing@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:golemancy/sealstore@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:primal/primordialguardian@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:golemancy/matstudclay@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:alchemy/essentiasmeltervoid@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:alchemy/essentiasmeltervoid@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/rift_power@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/rift_power@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:infusion/bootstraveller@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/starfield_glass_mirror@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:infusion/bootstraveller@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/starfield_glass_mirror@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:golemancy/matstudiron@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:alchemy/liquiddeath@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:alchemy/liquiddeath@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:artifice/basicturret@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:revelations/cr_comet_boots@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:artifice/basicturret@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:revelations/cr_comet_boots@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:revelations/cr_technomancer_scribing_tools@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/primordial_wisp@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:basics/!taintcrawler@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:periphery/casterember@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:periphery/casterember@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:auromancy/focusgreater@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:auromancy/focusgreater@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:artifice/infernalfurnace@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:artifice/infernalfurnace@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:artifice/mirroressentia@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:artifice/hungrychest@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:artifice/mirroressentia@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:artifice/hungrychest@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/eldritch_spire@3": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_mithminite_robe@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/eldritch_spire@4": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_mithminite_robe@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/eldritch_spire@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/eldritch_spire@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/orb@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/seal_secure@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/seal_secure@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:basics/crimsonrites@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:basics/crimsonrites@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:basics/unlockeldritch@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:basics/unlockeldritch@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:alchemy/thaumatorium@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:alchemy/thaumatorium@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_totems@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:infusion/curiosityband@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_totems@3": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:infusion/curiosityband@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_totems@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:alchemy/everfullurn@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:alchemy/everfullurn@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:artifice/arcanelamp@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/newauromancy@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:artifice/arcanelamp@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/newauromancy@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/boat": {
+    "criteria": {
+      "entered_water": "2026-03-29 07:48:56 -0700"
+    },
+    "done": true
+  },
+  "alembic:revelations/cr_basic_crimson_weaponry@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:periphery/pauldronrepulsion@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/elytra_booster@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:periphery/pauldronrepulsion@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/elytra_booster@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:alchemy/basealchemy@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:revelations/cr_focus_poison@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:basics/researchexpertise@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:basics/researchexpertise@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:basics/fluxcleanup@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/emptiness_modifier@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:basics/fluxcleanup@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/emptiness_modifier@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_wonders/twond_seal_research_assistant@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:isorropia/amphibious@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/core_elemental@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_wonders/twond_seal_research_assistant@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:isorropia/amphibious@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/core_elemental@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:alchemy/bathsalts@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:alchemy/bathsalts@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_mithminite_fabric@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_mithminite_fabric@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:tconevo/tconevo_primalmetal@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:tconevo/tconevo_primalmetal@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:infusion/cr_runic_baubles@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_tinkerer/tt_efreet_flame@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_tinkerer/tt_ender_rift@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:golemancy/matstudwood@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_tinkerer/tt_ender_rift@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:tconevo/tconevo_tconinfusionench@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_tinkerer/tt_efreet_flame@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:planarartifice/pa_alkimium_adaminite_smeltery@3": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_tinkerer/tt_cat_amulet@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:planarartifice/pa_alkimium_adaminite_smeltery@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:planarartifice/pa_alkimium_adaminite_smeltery@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:artifice/grapplegun@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:artifice/grapplegun@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:infusion/cr_verdant_bands@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:isorropia/spiderclimb@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:isorropia/spiderclimb@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/impetus_matrix@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:eldritch/voidsiphon@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/impetus_matrix@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:eldritch/voidsiphon@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:auromancy/focusplan@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_wonders/twond_catalyzation_chamber@3": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:auromancy/focusplan@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/duplicator@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:revelations/cr_golem_mat_flesh@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/duplicator@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:golemancy/controlseals@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:basics/!eldritchguardian@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:basics/cr_thaumic_litmus_paper@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:auromancy/focusmine@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:auromancy/focusmine@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/thaumicforever@3": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/thaumicforever@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/thaumicforever@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_wonders/twond_catalyzation_chamber@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_wonders/twond_catalyzation_chamber@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:planarartifice/pa_alkimium_thaumium_smeltery@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/thaumic_augmentation_base@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:planarartifice/pa_alkimium_thaumium_smeltery@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:eldritch/voidrobearmor@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_adaminite_jar@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:revelations/cr_chameleon_infusion@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_adaminite_jar@3": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_wonders/twond_void_walker_boots@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:revelations/cr_chameleon_infusion@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:eldritch/voidrobearmor@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_meteor_belt@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:artifice/visgenerator@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:golemancy/golemvision@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:golemancy/golemvision@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_adaminite_jar@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:revelations/cr_praetor_armor@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/chainflight@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:revelations/cr_praetor_armor@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/chainflight@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:infusion/infusionboost@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_wonders/twond_void_walker_boots@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:infusion/infusionboost@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:revelations/cr_distortion_pickaxe@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:revelations/cr_distortion_pickaxe@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:basics/cr_ancient_baubles@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/impetus_mirror@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/impetus_mirror@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:basics/fluxrift@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_meteor_belt@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/unstone@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/unstone@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:alchemy/essentiasmelterthaumium@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:alchemy/essentiasmelterthaumium@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:congrega_mystica/cm_metal_purification_expanded@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:congrega_mystica/cm_caster_clockwork@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:congrega_mystica/cm_caster_clockwork@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:artifice/visgenerator@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/seal_copier@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_wonders/twond_avaric_deconstruction@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_eldritch@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_wonders/twond_avaric_deconstruction@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/seal_copier@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_eldritch@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:auromancy/focuscloud@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:infusion/cloudring@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:auromancy/focuscloud@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:golemancy/mindbiothaumic@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:isorropia/chromaticsheep@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:isorropia/chromaticsheep@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:infusion/cloudring@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:golemancy/mindbiothaumic@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/morphic_armor@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:alchemy/cr_ethereal_bloom@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:alchemy/cr_ethereal_bloom@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:planarartifice/pa_belt_of_suspension@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:planarartifice/pa_belt_of_suspension@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_void_elemental_shovel@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2026-03-29 07:36:21 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_essence_salt@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:periphery/magicquiver@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_essence_salt@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:periphery/magicquiver@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_essence_salt@3": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_void_elemental_shovel@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/tenebraealkimia@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/tenebraealkimia@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/impulse_cannon_augment_burst@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_crystal_water@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/impulse_cannon_augment_burst@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:auromancy/focusbreak@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/rod_elemental@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/rod_elemental@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:isorropia/oreboar@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:golemancy/sealguard@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:isorropia/oreboar@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:golemancy/sealguard@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/explosioncast@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:isorropia/instilledfidelity@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/explosioncast@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:alchemy/potionsprayer@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:auromancy/focusadvanced@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:auromancy/focusadvanced@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_mithminite_belt@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:alchemy/potionsprayer@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_mithminite_belt@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:infusion/infusion@3": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:infusion/infusion@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:infusion/infusion@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_wonders/twond_oblivion_essentia_jar@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:planarartifice/pa_alkimium_mithrillium_smeltery@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:planarartifice/pa_alkimium_mithrillium_smeltery@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:planarartifice/pa_alkimium_mithrillium_smeltery@3": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/immeralkimia@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/immeralkimia@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:primal/eternal_blade@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:isorropia/scholarschicken@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:isorropia/goldchicken@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:isorropia/goldchicken@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/primalnode@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/primalnode@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_puriflower@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_puriflower@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:auromancy/workbenchcharger@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:isorropia/scholarschicken@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/void_recharge_pedestal@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:auromancy/workbenchcharger@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/void_recharge_pedestal@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/advanced_smelter@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/advanced_smelter@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/starfield_glass_rift@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/starfield_glass_rift@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:basics/research@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:basics/research@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "srparasites:firmamentum_root": {
+    "criteria": {
+      "tick": "2026-03-29 06:55:52 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_wonders/twond_hexamite@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_wonders/twond_hexamite@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_tinkerer/tt_kamichest@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:congrega_mystica/cm_metal_corruption_expanded@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_tinkerer/tt_kamichest@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:congrega_mystica/cm_flux_scribing_tools@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:congrega_mystica/cm_flux_scribing_tools@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:isorropia/containment@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:isorropia/containment@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:infusion/infusionancient@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:infusion/infusionancient@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:isorropia/similitudoinfusions@4": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:isorropia/similitudoinfusions@3": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:revelations/!cr_crimson_knight@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:planarartifice/pa_alkimium_goggles@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:planarartifice/pa_alkimium_goggles@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_tinkerer/tt_dimensionalshard@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:isorropia/similitudoinfusions@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:isorropia/similitudoinfusions@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_tinkerer/tt_dimensionalshard@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/warded_arcana@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:revelations/!cr_crimson_cleric@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:planarartifice/pa_matstudy_alkimium@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_seal_symbols@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/eldritchalkimia@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_seal_symbols@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/eldritchalkimia@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/warded_arcana@3": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/warded_arcana@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:planarartifice/pa_matstudy_alkimium@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_wonders/twond_dimensional_ripper@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_wonders/twond_dimensional_ripper@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_tinkerer/tt_ichor_pouch@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_tinkerer/tt_ichor_pouch@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:congrega_mystica/cm_golem_mat_steel@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_wonders/twond_warp_ring@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/arcane_door@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/arcane_door@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:revelations/cr_focus_punch@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_wonders/twond_primal_destroyer@3": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_wonders/twond_primal_destroyer@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_wonders/twond_primal_destroyer@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_wonders/twond_warp_ring@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/cloak@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/cloak@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/rift_studies@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/rift_studies@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_void_elemental_hoe@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_void_elemental_hoe@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_mithminite_boots@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "srparasites:kill_root": {
+    "criteria": {
+      "tick": "2026-03-29 06:55:52 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_mithminite_boots@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_aspect_combiner@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_wonders/twond_disjunction_cloth@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_wonders/twond_disjunction_cloth@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_wonders/twond_meaty_orb@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_wonders/twond_meaty_orb@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_aspect_combiner@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:auromancy/focusexchange@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:auromancy/focusexchange@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_shadow_enchanter@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_shadow_enchanter@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/visaura@3": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/visaura@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/visaura@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/rod_greatwood@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_brass_jar@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/rod_silverwood@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_crystal_water@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_brass_jar@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:golemancy/sealbreak@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/rod_greatwood@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:golemancy/sealbreak@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/rod_silverwood@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/celestial_observer@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/celestial_observer@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/vis_regenerator@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/vis_regenerator@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:isorropia/gravekeeperinfusion@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:auromancy/focuscurse@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:auromancy/focuscurse@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_mob_summoning@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/!angry_skelet@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:isorropia/gravekeeperinfusion@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_mob_summoning@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_mob_summoning@3": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/morphic_armor@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/thaumium_robes@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:isorropia/growth@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:revelations/cr_purifying_shovel@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:isorropia/growth@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:revelations/cr_purifying_shovel@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:isorropia/warpedtumor@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/thaumium_robes@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:isorropia/warpedtumor@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:revelations/cr_dark_golemancy@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:basics/!crimsoncultist@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_tinkerer/tt_essentia_funnel@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_shadow_beam_staff@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_shadow_beam_staff@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/terraalkimia@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/terraalkimia@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_tinkerer/tt_prismarine@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_wonders/twond_flying_carpet@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/frenzy_modifier@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_seal_globe@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_seal_globe@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/focus_water@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:auromancy/focuspouch@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/focus_water@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:auromancy/focuspouch@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:alchemy/sanesoap@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:alchemy/sanesoap@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:isorropia/specieinfusions@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_wonders/twond_flying_carpet@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:basics/!pech@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:isorropia/chameleonskin@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:isorropia/chameleonskin@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/oreaqua@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/frenzy_modifier@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:periphery/baseperiphery@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:infusion/pavingstones@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/experience_modifier@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_void_elemental_pickaxe@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:infusion/pavingstones@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/experience_modifier@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_void_elemental_pickaxe@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:alchemy/essentiasmelter@3": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:golemancy/jarbrain@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:alchemy/essentiasmelter@4": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:alchemy/essentiasmelter@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/alchemy_grate@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:alchemy/essentiasmelter@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/alchemy_grate@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/fracture_theory@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:golemancy/jarbrain@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/botaniaalkimia@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:planarartifice/pa_rare_items@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_wonders/twond_void_portal@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "astralsorcery:root": {
+    "criteria": {
+      "astralsorcery_present": "2026-03-29 06:55:52 -0700"
+    },
+    "done": true
+  },
+  "alembic:planarartifice/pa_rare_items@4": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_wonders/twond_void_portal@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:planarartifice/pa_rare_items@5": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_wonders/twond_void_portal@3": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:planarartifice/pa_rare_items@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:basics/!wisp@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:planarartifice/pa_rare_items@3": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:alchemy/alumentum@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:golemancy/sealharvest@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:alchemy/alumentum@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:golemancy/sealharvest@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:golemancy/sealstock@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:golemancy/sealstock@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/gauntlet_augmentation@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/gauntlet_augmentation@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_eldritch_jar@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_eldritch_jar@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2026-03-29 07:01:53 -0700"
+    },
+    "done": true
+  },
+  "alembic:revelations/cr_cult_bestiary@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/gauntlet_augmentation@3": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_wonders/twond_cleansing_charm@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_wonders/twond_cleansing_charm@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:basics/!brainyzombie@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/botaniaalkimia@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_wonders/twond_inspiration_engine@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_wonders/twond_inspiration_engine@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/rift_monitor@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/rift_monitor@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/!tarbluewolf@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/compressor@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/compressor@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_tinkerer/tt_cleaning_talisman@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/newalkimia@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:alchemy/improvedsmelting2@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/newalkimia@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:alchemy/improvedsmelting2@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_tinkerer/tt_cleaning_talisman@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:infusion/armorfortress@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:golemancy/golemlogistics@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_tinkerer/tt_gas_remover@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_tinkerer/tt_gas_remover@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/boots_void@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/boots_void@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_wonders/twond_alienist_stone@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_wonders/twond_alienist_stone@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_enchanted_golden_apple@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_enchanted_golden_apple@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:artifice/lampfertility@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:artifice/lampfertility@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/thaumostatic_harness@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/thaumostatic_harness@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:golemancy/golemlogistics@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:infusion/infusionenchantment@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/fracture_theory@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:infusion/infusionenchantment@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/vis_battery_augment@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/scepter@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/vis_battery_augment@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_chester@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_tinkerer/tt_blackhole_ring@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_tinkerer/tt_blackhole_ring@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/auranode@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/auranode@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_crystal_bag@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_crystal_bag@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/scepter@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:basics/unlockalchemy@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:basics/unlockalchemy@3": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:basics/unlockalchemy@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/impetus@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/impetus@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:basics/unlockinfusion@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:basics/!taintacle@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:infusion/armorfortress@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:primal/primal@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/elytra_harness@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/elytra_harness@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:isorropia/cultivation@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:isorropia/cultivation@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:alchemy/metallurgy@3": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:alchemy/metallurgy@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:alchemy/metallurgy@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:planarartifice/pa_magic_apple@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:planarartifice/pa_magic_apple@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "entered_water": "2026-03-29 07:48:56 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_tinkerer/tt_ichoriumtools@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_wonders/twond_seal_shearing@3": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_wonders/twond_seal_shearing@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2026-03-29 07:59:39 -0700"
+    },
+    "done": true
+  },
+  "alembic:alchemy/wardedjars@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_chester@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_wonders/twond_seal_shearing@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_tinkerer/tt_ichoriumtools@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_tinkerer/tt_transvector_interface@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_wonders/twond_transmuter_stone@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_tinkerer/tt_transvector_interface@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_tinkerer/tt_transvector_interface@3": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_tinkerer/tt_ichor_pick_adv@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_wonders/twond_transmuter_stone@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:revelations/cr_sanitation_scribing_tools@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:isorropia/somaticbrain@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:isorropia/somaticbrain@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_tinkerer/tt_ichor_pick_adv@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_aura_disperser@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_aura_disperser@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_wonders/twond_ordered_deconstruction@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:golemancy/seallumber@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:golemancy/seallumber@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/nodejar@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/nodejar@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_tinkerer/tt_placement_mirror@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_tinkerer/tt_placement_mirror@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:basics/unlockinfusion@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:auromancy/visbattery@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/more_mechanisms@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:auromancy/visbattery@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/more_mechanisms@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/eldritchamulet@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/eldritchamulet@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:basics/!taintswarm@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/staff@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/staff@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:golemancy/matstudvoid@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:auromancy/focusheal@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:revelations/cr_focus_taint_poison@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:revelations/cr_primordial_scribing_tools@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:revelations/cr_golem_mat_cult_plate@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/newinfusion@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/newinfusion@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_traveller_belt@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_traveller_belt@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/arcane_terraformer@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:revelations/cr_nutrition_ring@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:revelations/cr_nutrition_ring@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/arcane_terraformer@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:basics/researchmastery@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:basics/researchmastery@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:infusion/infusionstable@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:infusion/mi_revealing_infusion@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:infusion/infusionstable@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:infusion/mi_revealing_infusion@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:planarartifice/pa_focus_light@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:infusion/charmundying@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:planarartifice/pa_alkimium_void_smeltery@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:planarartifice/pa_alkimium_void_smeltery@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_tinkerer/tt_dislocate@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:infusion/charmundying@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_tinkerer/tt_dislocate@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:planarartifice/pa_focus_light@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:revelations/cr_primal_arrows@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:planarartifice/pa_alkimium_void_smeltery@3": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/core_primal@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/core_primal@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:revelations/cr_primal_arrows@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:primal/teleport@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:planarartifice/pa_flux_scrubber@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:planarartifice/pa_flux_scrubber@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/glass_tube@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/glass_tube@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:artifice/levitator@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:isorropia/hanginglabel@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:artifice/levitator@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:basics/unlockauromancy@3": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:basics/unlockauromancy@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_wonders/twond_primordial_siphon@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:basics/unlockauromancy@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:alchemy/bottletaint@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_mithrillium@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:isorropia/firelens@3": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:isorropia/firelens@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_mithrillium@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:isorropia/firelens@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_wonders/twond_primordial_siphon@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_wonders/twond_primordial_siphon@3": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:isorropia/instilledfidelity@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_wonders/!twond_corruption_avatar@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/starfield_glass_fracture@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:auromancy/visamulet@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:auromancy/visamulet@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:auromancy/focusbreak@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/newrunics@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/newrunics@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_tinkerer/tt_gas@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_tinkerer/tt_gas@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_wonders/twond_base@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/starfield_glass_fracture@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:basics/!taintseed@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/!revive_skelet@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:auromancy/focussplit@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:auromancy/focussplit@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:isorropia/jellyrabbit@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/perditioalkimia@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:planarartifice/pa_alchemical_scribing_tools@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/perditioalkimia@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:alchemy/arcanespa@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:alchemy/arcanespa@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:basics/flux@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/victusalkimia@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:basics/flux@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:infusion/fortressmask@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/victusalkimia@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:isorropia/jellyrabbit@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:infusion/fortressmask@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "extreme_hills": "2026-03-29 06:55:52 -0700",
+      "roofed_forest": "2026-03-29 06:58:19 -0700",
+      "river": "2026-03-29 07:54:09 -0700"
+    },
+    "done": false
+  },
+  "alembic:thaumicforever/additionalalkimia@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/additionalalkimia@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_tinkerer/tt_infused_crops@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_tinkerer/tt_infused_crops@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_crystal_lamp@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_crystal_lamp@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/researchprimal@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_vis_seeds@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_vis_seeds@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_cake@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:revelations/cr_ancient_stone@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:artifice/lampgrowth@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_cake@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:isorropia/arcanelenses@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:revelations/cr_ancient_stone@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_wonders/twond_structure_diviner@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_wonders/twond_structure_diviner@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:eldritch/primalcrusher@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:isorropia/arcanelenses@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:eldritch/primalcrusher@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:artifice/lampgrowth@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:alchemy/essentiatransport@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_adaminite_sword@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:alchemy/essentiatransport@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/autocaster@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_adaminite_sword@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/autocaster@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:basics/knowledgetypes@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:auromancy/focusflux@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:auromancy/focuselemental@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/fortified_glass@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/ordooalkimia@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/fortified_glass@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/ordooalkimia@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:tconevo/tconevo_base@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:revelations/cr_meteor_boots@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_tinkerer/tt_kamihelm@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_tinkerer/tt_kamihelm@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:tconevo/tconevo_base@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:basics/!thaumslime@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:auromancy/focuselemental@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_wonders/twond_meteorb@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_wonders/twond_meteorb@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_wonders/twond_vis_capacitor@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_disenchant_fabric@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:revelations/cr_meteor_boots@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_disenchant_fabric@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:planarartifice/pa_dimensional_singularity@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/timestone@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/timestone@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:planarartifice/pa_dimensional_singularity@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_wonders/twond_vis_capacitor@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:golemancy/sealbutcher@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:isorropia/guardian_panther@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:golemancy/sealbutcher@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_wormhole_mirror@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:isorropia/guardian_panther@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_wormhole_mirror@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/iualkimia@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/iualkimia@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_wonders/twond_focus_teleport_home@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_wonders/twond_focus_teleport_home@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:revelations/cr_dark_auromancy@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_tinkerer/tt_tablet@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_tinkerer/tt_tablet@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/ward_openers@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/ward_openers@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_tinkerer/tt_energetic_nitor@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_tinkerer/tt_energetic_nitor@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_tinkerer/tt_spellbinding_cloth@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_tinkerer/tt_spellbinding_cloth@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_crystal_bore@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_crystal_bore@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_tinkerer/tt_thaumic_magnets@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:planarartifice/pa_alkimium@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:eldritch/baseeldritch@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:planarartifice/pa_alkimium@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:eldritch/baseeldritch@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_tinkerer/tt_thaumic_magnets@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:basics/warp@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_mithminite_smelter@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:basics/primpearl@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_mithminite_smelter@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_wonders/twond_everburning_urn@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_wonders/twond_everburning_urn@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:auromancy/focusbolt@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:artifice/bellows@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_tinkerer/tt_repairer@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:artifice/bellows@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/gauntlet_thaumium@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_tinkerer/tt_ichorarmor@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:auromancy/focusbolt@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/gauntlet_thaumium@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_tinkerer/tt_ichorarmor@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:revelations/cr_beheading_infusion@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:auromancy/focusrift@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:revelations/cr_beheading_infusion@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:auromancy/focusrift@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "srparasites:monument_root": {
+    "criteria": {
+      "tick": "2026-03-29 06:55:52 -0700"
+    },
+    "done": true
+  },
+  "alembic:isorropia/cloneself@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:isorropia/cloneself@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_tinkerer/tt_ichor_sword_adv@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_tinkerer/tt_ichor_sword_adv@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:revelations/!cr_crimson_archer@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "entered_water": "2026-03-29 07:48:56 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/!voidstone@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:golemancy/golemcombatadv@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_wonders/twond_sharing_tome@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_wonders/twond_sharing_tome@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:golemancy/golemcombatadv@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:artifice/arcanebore@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:artifice/arcanebore@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:revelations/cr_vis_attunement_infusion@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_wonders/twond_primordial_pearl_growth@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_wonders/twond_primordial_pearl_growth@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:revelations/crimson_revelations_base@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_wonders/twond_nether_hedge@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_wonders/twond_nether_hedge@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:planarartifice/pa_infusion_enchantment_2@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:planarartifice/pa_infusion_enchantment_2@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:infusion/cr_special_runic_baubles@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:infusion/cr_special_runic_baubles@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:artifice/arcaneear@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_wonders/twond_flux_distiller@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:artifice/arcaneear@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_wonders/twond_flux_distiller@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:alchemy/hedgealchemy@4": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_mithrillium_smelter@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/cap_brass@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:alchemy/hedgealchemy@3": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:artifice/dioptra@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_mithrillium_smelter@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:artifice/dioptra@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/cap_brass@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:alchemy/hedgealchemy@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:alchemy/hedgealchemy@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:basics/riftcloser@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:basics/riftcloser@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:artifice/arcanepatterncrafter@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_wonders/twond_madness_engine@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_wonders/twond_madness_engine@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:artifice/arcanepatterncrafter@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_wonders/twond_nv_goggles@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_wonders/twond_nv_goggles@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:basics/!firebat@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/dimensional_modifiers@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:auromancy/baseauromancy@3": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/dimensional_modifiers@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/cap_gold@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/cap_gold@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:planarartifice/pa_bismuth_casters_gauntlet@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:planarartifice/pa_bismuth_casters_gauntlet@3": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:auromancy/baseauromancy@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:isorropia/creatureinfusions@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/mindcontrol@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:auromancy/baseauromancy@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:isorropia/creatureinfusions@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:planarartifice/pa_bismuth_casters_gauntlet@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/mindcontrol@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:isorropia/creatureinfusions@3": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:periphery/visphylactery@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:periphery/visphylactery@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:golemancy/golemclimber@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:golemancy/golemclimber@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:basics/unlockartifice@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:basics/unlockartifice@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_thaumadds@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_thaumadds@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_void_elemental_axe@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_void_elemental_axe@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:primal/stuff@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:revelations/cr_focus_hex@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/focus_shield@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/focus_shield@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:golemancy/basegolemancy@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "entered_water": "2026-03-29 07:48:56 -0700"
+    },
+    "done": true
+  },
+  "alembic:golemancy/golemdirect@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:isorropia/synthskin@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:isorropia/synthskin@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:revelations/cr_focus_blinding_flash@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/rift_feeder@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:golemancy/golemdirect@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/rift_feeder@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/more_golemancy@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/thaumostatic_girdle@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:planarartifice/pa_mirrored_amulet@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/thaumostatic_girdle@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_tinkerer/tt_revealing@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:artifice/deconstructiontable@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/focuscleanse@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:artifice/deconstructiontable@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/focuscleanse@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_tinkerer/tt_revealing@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:isorropia/ordolens@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:revelations/cr_vis_attunement_infusion@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_wonders/twond_ore_diviner@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:congrega_mystica/congrega_mystica_base@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:isorropia/ordolens@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_wonders/twond_ore_diviner@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_crystal_crusher@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_crystal_crusher@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_tinkerer/tt_summoning@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:planarartifice/pa_starving_chest@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:planarartifice/pa_mirrored_amulet@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_tinkerer/tt_summoning@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:planarartifice/pa_starving_chest@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/focus_ward@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/focus_ward@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/!guard@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/!guard@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_wonders/twond_void_fortress_armor@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_wonders/twond_void_fortress_armor@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:auromancy/focusscatter@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/seal_golem_core_essentia@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:auromancy/focusscatter@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/seal_golem_core_essentia@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/rift_moving@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_growth_chamber@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/rift_moving@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_growth_chamber@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_tinkerer/tt_ichor_axe_adv@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_tinkerer/tt_ichor_axe_adv@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:alchemy/tubes@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:alchemy/tubes@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:isorropia/nether_hound@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:isorropia/nether_hound@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/core_silverwood@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/core_silverwood@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/more_auromancy@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/cap_thaumium@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/cap_thaumium@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_void_crop@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_aura_charger@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_void_crop@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_wonders/twond_erythurgy@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_aura_charger@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_wonders/twond_erythurgy@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:basics/celestialscanning@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:basics/!cr_mana_pod@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:golemancy/matstudthaumium@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/primal_cutter@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/primal_cutter@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "srparasites:secret_root": {
+    "criteria": {
+      "tick": "2026-03-29 06:55:52 -0700"
+    },
+    "done": true
+  },
+  "alembic:golemancy/sealcollect@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/cap_void@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/cap_void@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_wonders/twond_panacea@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/focus_light@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/focus_light@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_adaminite@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_adaminite@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_tinkerer/tt_ichor_shovel_adv@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_tinkerer/tt_ichor_shovel_adv@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:infusion/elementaltools@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_wonders/twond_alkahest@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:infusion/elementaltools@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_wonders/twond_alkahest@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:isorropia/silverheart@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/chainlightning@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_wonders/twond_panacea@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:isorropia/silverheart@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/chainlightning@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:congrega_mystica/cm_mimic_fork@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:congrega_mystica/cm_mimic_fork@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_mithrillium_jar@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_adaminite_fabric@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/aquaalkimia@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_striding_belt@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_striding_belt@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:basics/crystalfarmer@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_adaminite_fabric@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/aquaalkimia@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:basics/crystalfarmer@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_wonders/twond_coalescence_matrix@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_mithrillium_jar@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_tinkerer/tt_ichor@3": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_tinkerer/tt_ichor@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_tinkerer/tt_ichor@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_wonders/twond_coalescence_matrix@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:43 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/impetus_generator@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/impetus_generator@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:basics/ore@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_tinkerer/tt_kamiboots@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_tinkerer/tt_kamiboots@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:planarartifice/pa_alkimium_mithminite_smeltery@3": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_wonders/twond_end_hedge@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_wonders/twond_end_hedge@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/thaumostatic_gyroscope@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:planarartifice/pa_alkimium_mithminite_smeltery@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/thaumostatic_gyroscope@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:planarartifice/pa_alkimium_mithminite_smeltery@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_tinkerer/tt_experience_charm@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_tinkerer/tt_experience_charm@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:isorropia/taintfeeder@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:isorropia/taintfeeder@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/impetus_gate@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/impetus_gate@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/praecantatioalkimia@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/praecantatioalkimia@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "srparasites:root": {
+    "criteria": {
+      "tick": "2026-03-29 06:55:52 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/gauntlet_void@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/gauntlet_void@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/gauntlet_void@3": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_tinkerer/tt_telekenesis@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_tinkerer/tt_telekenesis@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_mithminite_scythe@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_mithminite_scythe@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_tinkerer/tt_warp_series@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_tinkerer/tt_warp_series@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:revelations/cr_execution_axe@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:revelations/cr_execution_axe@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:golemancy/matstudbrass@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_tinkerer/tt_kamilegs@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_wonders/twond_mystic_gardening@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/stability_field_generator@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_tinkerer/tt_kamilegs@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:golemancy/golembreaker@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/stability_field_generator@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:golemancy/golembreaker@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_wonders/twond_mystic_gardening@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_mithminite_hood@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_mithminite_hood@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_seal@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_the_beheader@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_seal@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_tinkerer/tt_enchanter@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_the_beheader@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_tinkerer/tt_enchanter@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:planarartifice/pa_alkimium_applications@3": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:planarartifice/pa_alkimium_applications@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/ignisalkimia@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:planarartifice/pa_alkimium_applications@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/ignisalkimia@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:congrega_mystica/cm_mimic_fork_ranged@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "entered_water": "2026-03-29 07:48:56 -0700"
+    },
+    "done": true
+  },
+  "alembic:congrega_mystica/cm_mimic_fork_ranged@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_wonders/twond_entropic_processing@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:artifice/mirror@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:artifice/mirror@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:isorropia/hardning@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "entered_water": "2026-03-29 07:48:56 -0700"
+    },
+    "done": true
+  },
+  "alembic:isorropia/hardning@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/item_grate@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:primal/taint_amulet@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:infusion/infusioneldritch@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:infusion/infusioneldritch@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:planarartifice/pa_alkimium_distillation@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:planarartifice/pa_alkimium_distillation@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/golem_core_fish@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/golem_core_fish@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:congrega_mystica/cm_caster_flux@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:congrega_mystica/cm_caster_flux@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:infusion/baseinfusion@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/harness_base@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:infusion/runicshielding@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/herbaalkimia@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/ward_keys@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:basics/unlockgolemancy@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:infusion/runicshielding@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/ward_keys@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:basics/unlockgolemancy@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/harness_base@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumicforever/herbaalkimia@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:infusion/verdantcharms@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:infusion/verdantcharms@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:41 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_essentia_pistol@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumadditions/tar_essentia_pistol@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/impulse_cannon_augment_railgun@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:planarartifice/pa_bismuth@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:planarartifice/pa_bismuth@2": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  },
+  "alembic:thaumic_augmentation/impulse_cannon_augment_railgun@1": {
+    "criteria": {
+      "thaumcraft": "2026-03-29 07:07:42 -0700"
+    },
+    "done": true
+  }
+}

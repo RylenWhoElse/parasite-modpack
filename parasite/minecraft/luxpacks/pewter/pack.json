@@ -1,0 +1,7 @@
+{
+	"api": 1,
+	"name": "pewter support",
+	"authors": [ "Kaleidomow" ],
+	"description": "Adds colored light support to Thaumcraft",
+	"dependencies": [ "pewter" ]
+}

@@ -1,0 +1,36 @@
+{
+	"#comment": "Check out https://gist.github.com/Zeitheron/d3da4b5f8891c90106c0dc6535357259 for example!",
+	"minecraft:magma_cube": [
+        {
+            "color": {
+                "red": "rng(0.6) + 0.4",
+                "green": "rng(0.1) + 0.3",
+                "blue": "0",
+                "alpha": "1"
+            },
+            "radius": "4 + 3 * flicker(5000)"
+        }
+    ],
+    "minecraft:blaze": [
+        {
+            "color": {
+                "red": "rng(0.2) + 0.8",
+                "green": "rng(0.3) + 0.6",
+                "blue": "0",
+                "alpha": "1"
+            },
+            "radius": "6 + 4 * flicker(2000)"
+        }
+    ],
+    "minecraft:enderman": [
+        {
+            "color": {
+                "red": "0.49",
+                "green": "0",
+                "blue": "1",
+                "alpha": "1"
+            },
+            "radius": "2 + flicker(2000)"
+        }
+    ]
+}

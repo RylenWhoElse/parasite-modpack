@@ -1,0 +1,1 @@
+{"jarName":"Lumenized-1.0.4.jar","modId":"lumenized","name":"Lumenized","version":"${version}","mixinConfigs":["mixins.lumenized_modularrouters.json","mixins.lumenized.refmap.json","mixins.lumenized.json"],"jarJarMods":[],"curseForgeHash":849018,"modrinthHash":"7285614783c95348fd42eff0df35154129f52805"}

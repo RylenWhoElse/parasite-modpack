@@ -1,0 +1,85 @@
+{
+	"thaumcraft:crystal_aqua": [
+        {
+            "color": {
+                "red": "0",
+                "green": "rng(0.2) + 0.4",
+                "blue": "rng(0.4) + 0.9",
+                "alpha": "1"
+            },
+            "radius": "1.7"
+        }
+    ],
+
+	"thaumcraft:crystal_ignis": [
+        {
+            "color": {
+                "red": "2",
+                "green": "rng(0.2) + 0.4",
+                "blue": "0",
+                "alpha": "1"
+            },
+            "radius": "1.7"
+        }
+    ],
+
+	"thaumcraft:crystal_aer": [
+        {
+            "color": {
+                "red": "rng(0.8) + 0.5",
+                "green": "rng(0.9) + 0.6",
+                "blue": "rng(0.1) + 0.1",
+                "alpha": "1"
+            },
+            "radius": "1.7"
+        }
+    ],
+
+	"thaumcraft:crystal_vitium": [
+        {
+            "color": {
+                "red": "rng(0.5) + 0.4",
+                "green": "rng(0.1) + 0.1",
+                "blue": "rng(0.5) + 0.4",
+                "alpha": "1"
+            },
+            "radius": "1.7"
+        }
+    ],
+
+	"thaumcraft:crystal_perditio": [
+        {
+            "color": {
+                "red": "0.1",
+                "green": "0.1",
+                "blue": "0.1",
+                "alpha": "1"
+            },
+            "radius": "1.7"
+        }
+    ],
+
+	"thaumcraft:crystal_terra": [
+        {
+            "color": {
+                "red": "0.2",
+                "green": "rng(0.6) + 0.9",
+                "blue": "rng(0.1) + 0.3",
+                "alpha": "1"
+            },
+            "radius": "1.7"
+        }
+    ],
+
+	"thaumcraft:crystal_ordo": [
+        {
+            "color": {
+                "red": "rng(0.2) + 0.1",
+                "green": "rng(0.2) + 0.1",
+                "blue": "rng(0.2) + 0.1",
+                "alpha": "1"
+            },
+            "radius": "1.7"
+        }
+    ]	
+}

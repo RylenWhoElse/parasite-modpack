@@ -1,0 +1,14 @@
+Fire Crystal (thaumcraft:crystal_ignis - 530:0) no TileEntity
+Full block state: thaumcraft:crystal_ignis[gen=1,size=0]
+Hardness: 0.2500, Explosion resistance: 0.2500, Material: GLASS
+Block class: thaumcraft.common.blocks.world.ore.BlockCrystal
+IBlockState properties, including getActualState():
+PropertyInteger{name=gen, clazz=class java.lang.Integer, values=[1, 2, 3, 4]}: 1
+PropertyInteger{name=size, clazz=class java.lang.Integer, values=[0, 1, 2, 3]}: 0
+IExtendedBlockState properties:
+PropertyAdapter{name=up, clazz=class java.lang.Boolean, value=Optional[false]}
+PropertyAdapter{name=down, clazz=class java.lang.Boolean, value=Optional[true]}
+PropertyAdapter{name=north, clazz=class java.lang.Boolean, value=Optional[false]}
+PropertyAdapter{name=east, clazz=class java.lang.Boolean, value=Optional[false]}
+PropertyAdapter{name=west, clazz=class java.lang.Boolean, value=Optional[false]}
+PropertyAdapter{name=south, clazz=class java.lang.Boolean, value=Optional[true]}
